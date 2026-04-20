@@ -1,3 +1,12 @@
+# Icy Natural
+
+I build systems for cognition, energy, and behavior.
+
+This is not a collection of unrelated projects.  
+It is a unified ecosystem.
+
+---
+
 ## System Architecture
 
 All projects connect through a shared loop:
