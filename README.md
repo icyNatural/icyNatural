@@ -29,17 +29,6 @@ https://github.com/icyNatural/Energy_Engine
 
 ---
 
-### Icy Natural OS
-Browser-based interface for interacting with internal state.
-
-State → Meaning → Questions → Patterns
-
-- Converts internal state into structured input
-- Generates adaptive questions
-- Stores patterns over time
-
----
-
 ### Cognitive Mode Engine
 Structured thinking system.
 
