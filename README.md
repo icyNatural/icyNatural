@@ -1,90 +1,76 @@
 # Icy Natural
 
-I build systems for cognition, energy, and behavior.
-
-This is not a collection of unrelated projects.  
-It is a unified ecosystem.
+Personal systems for cognition, energy, and behavior.
 
 ---
 
-## System Architecture
+## Navigation
 
-All projects connect through a shared loop:
-
-Input → State → Interpretation → Action → Feedback → Adaptation
+- About
+- Systems
+- Research
+- Current Focus
 
 ---
 
-## Core Projects
+## About
+
+- Building personal operating systems, not isolated apps  
+- Focus: cognition, energy modeling, behavioral systems  
+- Approach: theory → implementation → iteration  
+
+---
+
+## Systems
 
 ### Energy Engine
-Physiological and behavioral signal processing system.
+Physiological signal processing → real-time readiness
 
-- Models readiness using HR, HRV, sleep, and activity
-- Produces real-time energy/state outputs
-- Foundation layer for all higher systems
-
-Repo:
 https://github.com/icyNatural/Energy_Engine
 
 ---
 
-### Cognitive Mode Engine
-Structured thinking system.
+### Icy Natural OS
+Interface layer
 
-- Modes: Socratic, Nietzschean, Aporia, etc.
-- Transforms how problems are approached
-- Acts as a cognition modifier layer
+State → Meaning → Questions → Patterns
+
+---
+
+### Cognitive Mode Engine
+Structured thinking modes that alter reasoning patterns
 
 ---
 
 ### Phase / Day-State Systems
-Time-based behavioral modeling.
-
-- Aligns actions with energy patterns
-- Adjusts daily structure dynamically
-- Integrates with Energy Engine outputs
+Time-based behavioral alignment
 
 ---
 
-## Research Layer
+## Research
 
-Conceptual frameworks live here:
+Conceptual architecture behind the systems:
 
 https://github.com/icyNatural/Icy-Clear-Research
 
-Focus areas:
-- Cognitive systems
-- Language engineering
-- Behavioral modeling
-- Identity construction
+Focus:
+- language as control layer
+- identity construction
+- attention loops
+- behavioral feedback systems
 
 ---
 
-## What This Is
+## Current Focus
 
-A personal operating system.
-
-Not notes.  
-Not isolated apps.  
-
-A system that:
-- reads state
-- interprets it
-- decides action
-- learns over time
+- connecting all systems into one backend  
+- building memory + pattern recognition  
+- turning tools into adaptive systems  
 
 ---
 
 ## Direction
 
-Current focus:
-- Connecting all systems into a single backend
-- Moving from static tools → adaptive system
-- Adding memory + pattern recognition layers
+This is one system.
 
----
-
-## Author
-
-Chad Hamilton
+Each repository is a component, not a standalone project.
