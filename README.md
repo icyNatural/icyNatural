@@ -4,14 +4,27 @@ Building a personal operating system for cognition, energy, and behavior.
 
 ---
 
+## 🔗 Live System
+
+👉 https://icynatural.github.io/Energy_Engine/
+
+Experience the working interface:
+
+* input physiological state
+* receive real-time interpretation
+* move through **State → Meaning → Action**
+
+---
+
 ## Overview
 
 This is not a collection of separate projects.
 
 Each repository is a component in a unified system designed to:
-- read internal state  
-- generate structured decisions  
-- adapt through feedback over time  
+
+* read internal state
+* generate structured decisions
+* adapt through feedback over time
 
 ---
 
@@ -23,12 +36,12 @@ Input → State → Interpretation → Action → Feedback → Adaptation
 
 ## Core Systems
 
-| System | Role |
-|--------|------|
-| [Energy Engine](https://github.com/icyNatural/Energy_Engine) | Computes physiological and behavioral state |
-| Icy Natural OS | Interface for interacting with internal state |
-| Cognitive Mode Engine | Alters thinking patterns through structured modes |
-| Phase / Day-State Systems | Aligns behavior with time and energy patterns |
+| System                                                              | Role                                              |
+| ------------------------------------------------------------------- | ------------------------------------------------- |
+| [Energy Engine (Live)](https://icynatural.github.io/Energy_Engine/) | Computes physiological and behavioral state       |
+| Icy Natural OS                                                      | Interface for interacting with internal state     |
+| Cognitive Mode Engine                                               | Alters thinking patterns through structured modes |
+| Phase / Day-State Systems                                           | Aligns behavior with time and energy patterns     |
 
 ---
 
@@ -38,15 +51,17 @@ Input → State → Interpretation → Action → Feedback → Adaptation
 <summary>Energy Engine</summary>
 
 Processes physiological and behavioral signals:
-- heart rate (HR)
-- heart rate variability (HRV)
-- sleep duration and efficiency
-- activity load
+
+* heart rate (HR)
+* heart rate variability (HRV)
+* sleep duration and efficiency
+* activity load
 
 Outputs:
-- readiness score
-- energy state
-- phase alignment
+
+* readiness score
+* energy state
+* phase alignment
 
 Acts as the foundation layer for all other systems.
 
@@ -60,10 +75,11 @@ Interface layer for navigating internal state:
 State → Meaning → Questions → Patterns
 
 Handles:
-- state input
-- interpretation
-- adaptive questioning
-- pattern tracking
+
+* state input
+* interpretation
+* adaptive questioning
+* pattern tracking
 
 </details>
 
@@ -71,15 +87,17 @@ Handles:
 <summary>Cognitive Mode Engine</summary>
 
 Structured thinking system using defined modes:
-- Socratic
-- Nietzschean
-- Aporia
-- others
+
+* Socratic
+* Nietzschean
+* Aporia
+* others
 
 Each mode modifies:
-- reasoning approach
-- question generation
-- interpretation style
+
+* reasoning approach
+* question generation
+* interpretation style
 
 </details>
 
@@ -88,9 +106,9 @@ Each mode modifies:
 
 Time-based behavioral model:
 
-- adjusts daily structure based on energy
-- aligns action with internal capacity
-- integrates with Energy Engine outputs
+* adjusts daily structure based on energy
+* aligns action with internal capacity
+* integrates with Energy Engine outputs
 
 </details>
 
@@ -102,18 +120,18 @@ Time-based behavioral model:
 
 This contains the conceptual architecture behind the systems:
 
-- cognitive system modeling  
-- language as a control layer  
-- identity construction through repetition  
-- attention and feedback loops  
+* cognitive system modeling
+* language as a control layer
+* identity construction through repetition
+* attention and feedback loops
 
 ---
 
 ## Current Focus
 
-- integrating all systems into a unified backend  
-- building memory and pattern recognition  
-- evolving from tools into adaptive systems  
+* integrating all systems into a unified backend
+* building memory and pattern recognition
+* evolving from tools into adaptive systems
 
 ---
 
@@ -122,9 +140,10 @@ This contains the conceptual architecture behind the systems:
 This is a living system.
 
 The goal is not to track behavior, but to:
-- understand it  
-- structure it  
-- evolve it  
+
+* understand it
+* structure it
+* evolve it
 
 ---
 
