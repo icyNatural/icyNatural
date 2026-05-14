@@ -1,152 +1,114 @@
 # Icy Natural
 
-Building a personal operating system for cognition, energy, and behavior.
+Building executable systems for cognition, energy, behavior, and adaptive decision-making.
 
 ---
 
 ## 🔗 Live System
 
-👉 https://icynatural.github.io/Energy_Engine/
+👉 [Energy Engine](https://icynatural.github.io/Energy_Engine/)
 
-Experience the working interface:
+Experience the live interface:
 
-* input physiological state
-* receive real-time interpretation
-* move through **State → Meaning → Action**
+- input physiological state
+- receive real-time interpretation
+- navigate **State → Meaning → Action**
 
 ---
 
 ## Overview
 
-This is not a collection of separate projects.
+This is not a collection of isolated projects.
 
-Each repository is a component in a unified system designed to:
+Each repository functions as a subsystem within a larger cognitive infrastructure designed to:
 
-* read internal state
-* generate structured decisions
-* adapt through feedback over time
-
----
-
-## System Architecture
-
-Input → State → Interpretation → Action → Feedback → Adaptation
-
----
-
-## Core Systems
-
-| System                                                              | Role                                              |
-| ------------------------------------------------------------------- | ------------------------------------------------- |
-| [Energy Engine (Live)](https://icynatural.github.io/Energy_Engine/) | Computes physiological and behavioral state       |
-| Icy Natural OS                                                      | Interface for interacting with internal state     |
-| Cognitive Mode Engine                                               | Alters thinking patterns through structured modes |
-| Phase / Day-State Systems                                           | Aligns behavior with time and energy patterns     |
-
----
-
-## System Details
-
-<details>
-<summary>Energy Engine</summary>
-
-Processes physiological and behavioral signals:
-
-* heart rate (HR)
-* heart rate variability (HRV)
-* sleep duration and efficiency
-* activity load
-
-Outputs:
-
-* readiness score
-* energy state
-* phase alignment
-
-Acts as the foundation layer for all other systems.
-
-</details>
-
-<details>
-<summary>Icy Natural OS</summary>
-
-Interface layer for navigating internal state:
-
-State → Meaning → Questions → Patterns
-
-Handles:
-
-* state input
-* interpretation
-* adaptive questioning
-* pattern tracking
-
-</details>
-
-<details>
-<summary>Cognitive Mode Engine</summary>
-
-Structured thinking system using defined modes:
-
-* Socratic
-* Nietzschean
-* Aporia
-* others
-
-Each mode modifies:
-
-* reasoning approach
-* question generation
-* interpretation style
-
-</details>
-
-<details>
-<summary>Phase / Day-State Systems</summary>
-
-Time-based behavioral model:
-
-* adjusts daily structure based on energy
-* aligns action with internal capacity
-* integrates with Energy Engine outputs
-
-</details>
+- detect internal state
+- interpret behavioral patterns
+- generate adaptive responses
+- evolve through feedback over time
 
 ---
 
 ## Research Layer
 
-[View Research Repository](https://github.com/icyNatural/Icy-Clear-Research)
+🔬 [Icy Clear Research](https://github.com/icyNatural/Icy-Clear-Research)
 
-This contains the conceptual architecture behind the systems:
+Conceptual architecture and systems research behind the ecosystem.
 
-* cognitive system modeling
-* language as a control layer
-* identity construction through repetition
-* attention and feedback loops
+Focus areas include:
 
----
-
-## Current Focus
-
-* integrating all systems into a unified backend
-* building memory and pattern recognition
-* evolving from tools into adaptive systems
+- cognitive systems modeling
+- language as a control layer
+- identity formation through repetition
+- attention and feedback loops
+- behavioral architecture
+- adaptive system design
 
 ---
 
-## Direction
+## System Architecture
 
-This is a living system.
-
-The goal is not to track behavior, but to:
-
-* understand it
-* structure it
-* evolve it
+```text
+Input → State → Interpretation → Action → Feedback → Adaptation
+```
 
 ---
 
-## Author
+## Core Systems
 
-Chad Hamilton
+| System | Role |
+|---|---|
+| [Energy Engine (Live)](https://icynatural.github.io/Energy_Engine/) | Physiological and behavioral state computation |
+| Icy Natural OS | Cognitive navigation and interpretation environment |
+| Cognitive Mode Engine | Adaptive reasoning and structured cognition system |
+| Phase / Day-State Systems | Time and energy aligned behavioral architecture |
+
+---
+
+## System Details
+
+### Energy Engine
+
+Processes physiological and behavioral signals including:
+
+- heart rate (HR)
+- heart rate variability (HRV)
+- sleep duration and efficiency
+- activity load
+- recovery patterns
+
+Outputs:
+
+- readiness scoring
+- energy state modeling
+- phase alignment
+- adaptive interpretation
+
+Acts as the foundational layer for the broader system architecture.
+
+---
+
+### Icy Natural OS
+
+Interface layer for navigating:
+
+```text
+State → Meaning → Questions → Patterns
+```
+
+Functions include:
+
+- state interpretation
+- adaptive questioning
+- pattern tracking
+- behavioral reflection
+- cognitive navigation
+
+---
+
+### Cognitive Mode Engine
+
+Adaptive reasoning architecture that modifies:
+
+- interpretation
+- questioning
