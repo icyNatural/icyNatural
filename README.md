@@ -36,12 +36,9 @@ Building adaptive systems across cybersecurity, automation, semantic tooling, ph
 
 ## Research Layer
 
-Deeper architecture, cognitive systems research, and experimental frameworks are documented in:
+* Research goals
 
-* Icy Natural Research
-* Energy Engine
-* Inquiry Engine
-* Potent Lexicon
+https://github.com/icyNatural/icy-clear-research
 
 ---
 
