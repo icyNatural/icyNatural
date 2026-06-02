@@ -8,7 +8,7 @@ Building adaptive systems across cybersecurity, automation, semantic tooling, ph
   https://icynatural.github.io/Energy_Engine/
 
 * Portfolio
-  https://icynatural.github.io/
+   https://icynatural.github.io/chad-hamilton-portfolio/
 
 ---
 
