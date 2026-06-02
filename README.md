@@ -1,114 +1,85 @@
+````powershell
+$path = "README.md"
+
+@'
 # Icy Natural
 
-Building executable systems for cognition, energy, behavior, and adaptive decision-making.
+Building executable systems for cognition, energy, language, behavior, and adaptive decision-making.
 
----
-
-## 🔗 Live System
-
-👉 [Energy Engine](https://icynatural.github.io/Energy_Engine/)
-
-Experience the live interface:
-
-- input physiological state
-- receive real-time interpretation
-- navigate **State → Meaning → Action**
-
----
-
-## Overview
-
-This is not a collection of isolated projects.
-
-Each repository functions as a subsystem within a larger cognitive infrastructure designed to:
-
-- detect internal state
-- interpret behavioral patterns
-- generate adaptive responses
-- evolve through feedback over time
-
----
-
-## Research Layer
-
-🔬 [Icy Clear Research](https://github.com/icyNatural/Icy-Clear-Research)
-
-Conceptual architecture and systems research behind the ecosystem.
-
-Focus areas include:
-
-- cognitive systems modeling
-- language as a control layer
-- identity formation through repetition
-- attention and feedback loops
-- behavioral architecture
-- adaptive system design
-
----
-
-## System Architecture
-
-```text
-Input → State → Interpretation → Action → Feedback → Adaptation
-```
-
----
+This is not a collection of random projects. Each system functions as part of a larger personal infrastructure designed to interpret state, preserve thought continuity, model behavior, and turn raw information into usable guidance.
 
 ## Core Systems
 
 | System | Role |
 |---|---|
-| [Energy Engine (Live)](https://icynatural.github.io/Energy_Engine/) | Physiological and behavioral state computation |
-| Icy Natural OS | Cognitive navigation and interpretation environment |
-| Cognitive Mode Engine | Adaptive reasoning and structured cognition system |
-| Phase / Day-State Systems | Time and energy aligned behavioral architecture |
+| Energy Engine | Physiological and behavioral state modeling |
+| Inquiry Engine | Semantic retrieval, structured questioning, and continuity of thought |
+| Potent Lexicon | Language mapping by sound, texture, atmosphere, symbolism, and meaning |
 
----
+## Energy Engine
 
-## System Details
+A physiological and behavioral state system that interprets human energy patterns using sleep, HRV, activity, recovery, and temporal phase modeling.
 
-### Energy Engine
+Rather than relying on static averages alone, the system focuses on adaptive interpretation through evolving personal baselines, behavioral consistency, recovery patterns, and contextual state awareness.
 
-Processes physiological and behavioral signals including:
+Built to explore how software can transform raw physiological signals into structured feedback, operational clarity, and actionable daily guidance.
 
-- heart rate (HR)
-- heart rate variability (HRV)
-- sleep duration and efficiency
-- activity load
-- recovery patterns
+## Inquiry Engine
 
-Outputs:
+An adaptive inquiry and reasoning system designed to preserve continuity of thought across time.
 
-- readiness scoring
-- energy state modeling
-- phase alignment
-- adaptive interpretation
+Focused on semantic retrieval, conceptual synthesis, long-term pattern tracking, and structured questioning rather than isolated AI conversations.
 
-Acts as the foundational layer for the broader system architecture.
+The system explores how knowledge, reasoning, memory, and evolving internal frameworks can be connected into a persistent environment for analysis, reflection, and adaptive cognition.
 
----
+## Potent Lexicon
 
-### Icy Natural OS
+A semantic language system for mapping words by sound, texture, atmosphere, symbolism, and meaning.
 
-Interface layer for navigating:
+Built to explore phonesthetic structures, emotional resonance, symbolic language patterns, and multi-dimensional relationships between words beyond traditional dictionary definitions.
+
+Rather than treating language as fixed labels alone, the system approaches words as dynamic cognitive structures shaped by association, perception, rhythm, context, and interpretive weight.
+
+## Supporting Work
+
+| Area | Purpose |
+|---|---|
+| Icy Clear Research | Conceptual research layer for cognitive systems, behavior, language, and adaptive models |
+| Cybersecurity Write-Ups | Technical documentation, breach analysis, cloud risk, access control, and security recommendations |
+| Automation Systems | PowerShell workflows, file organization, project scaffolding, and repeatable tooling |
+| Phase Systems | Time, energy, recovery, and workload alignment models |
+
+## System Architecture
 
 ```text
-State → Meaning → Questions → Patterns
+Input
+  ↓
+State Detection
+  ↓
+Interpretation
+  ↓
+Structured Feedback
+  ↓
+Action
+  ↓
+Reflection
+  ↓
+Adaptation
+````
+
+## Author
+
+**Chad Hamilton**
+
+Cybersecurity
+Automation
+Systems Development
+Language Architecture
+Behavioral Modeling
+Personal Operating Systems
+'@ | Set-Content $path
+
+code README.md
+
 ```
-
-Functions include:
-
-- state interpretation
-- adaptive questioning
-- pattern tracking
-- behavioral reflection
-- cognitive navigation
-
----
-
-### Cognitive Mode Engine
-
-Adaptive reasoning architecture that modifies:
-
-- interpretation
-- questioning
+```
