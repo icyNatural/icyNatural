@@ -1,7 +1,3 @@
-````powershell
-$path = "README.md"
-
-@'
 # Icy Natural
 
 Building executable systems for cognition, energy, language, behavior, and adaptive decision-making.
@@ -10,11 +6,13 @@ This is not a collection of random projects. Each system functions as part of a 
 
 ## Core Systems
 
-| System | Role |
-|---|---|
-| Energy Engine | Physiological and behavioral state modeling |
-| Inquiry Engine | Semantic retrieval, structured questioning, and continuity of thought |
+| System         | Role                                                                   |
+| -------------- | ---------------------------------------------------------------------- |
+| Energy Engine  | Physiological and behavioral state modeling                            |
+| Inquiry Engine | Semantic retrieval, structured questioning, and continuity of thought  |
 | Potent Lexicon | Language mapping by sound, texture, atmosphere, symbolism, and meaning |
+
+---
 
 ## Energy Engine
 
@@ -24,6 +22,8 @@ Rather than relying on static averages alone, the system focuses on adaptive int
 
 Built to explore how software can transform raw physiological signals into structured feedback, operational clarity, and actionable daily guidance.
 
+---
+
 ## Inquiry Engine
 
 An adaptive inquiry and reasoning system designed to preserve continuity of thought across time.
@@ -31,6 +31,8 @@ An adaptive inquiry and reasoning system designed to preserve continuity of thou
 Focused on semantic retrieval, conceptual synthesis, long-term pattern tracking, and structured questioning rather than isolated AI conversations.
 
 The system explores how knowledge, reasoning, memory, and evolving internal frameworks can be connected into a persistent environment for analysis, reflection, and adaptive cognition.
+
+---
 
 ## Potent Lexicon
 
@@ -40,14 +42,18 @@ Built to explore phonesthetic structures, emotional resonance, symbolic language
 
 Rather than treating language as fixed labels alone, the system approaches words as dynamic cognitive structures shaped by association, perception, rhythm, context, and interpretive weight.
 
+---
+
 ## Supporting Work
 
-| Area | Purpose |
-|---|---|
-| Icy Clear Research | Conceptual research layer for cognitive systems, behavior, language, and adaptive models |
+| Area                    | Purpose                                                                                            |
+| ----------------------- | -------------------------------------------------------------------------------------------------- |
+| Icy Clear Research      | Conceptual research layer for cognitive systems, behavior, language, and adaptive models           |
 | Cybersecurity Write-Ups | Technical documentation, breach analysis, cloud risk, access control, and security recommendations |
-| Automation Systems | PowerShell workflows, file organization, project scaffolding, and repeatable tooling |
-| Phase Systems | Time, energy, recovery, and workload alignment models |
+| Automation Systems      | PowerShell workflows, file organization, project scaffolding, and repeatable tooling               |
+| Phase Systems           | Time, energy, recovery, and workload alignment models                                              |
+
+---
 
 ## System Architecture
 
@@ -65,7 +71,9 @@ Action
 Reflection
   ↓
 Adaptation
-````
+```
+
+---
 
 ## Author
 
@@ -77,9 +85,3 @@ Systems Development
 Language Architecture
 Behavioral Modeling
 Personal Operating Systems
-'@ | Set-Content $path
-
-code README.md
-
-```
-```
